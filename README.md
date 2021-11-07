@@ -93,5 +93,5 @@ Start the application
 ![App Screenshot](https://github.com/Siddhantshelake/Employee-Retention-Prediction/blob/master/screenshots/retain.PNG)
 ## Demo
 
-![alt-text](https://github.com/Siddhantshelake/Employee-Retention-Prediction/blob/176a1274188cec8ad38c1c2853779fd5b7b08701/ERP.gif)
+![alt-text](https://github.com/Siddhantshelake/Employee-Retention-Prediction/blob/master/ERP.gif)
 
