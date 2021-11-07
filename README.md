@@ -52,16 +52,8 @@ Imported necessary libraries and dependencies and visualized different plots to 
 
 • Created flask app and and exposed it as REST API to retrain and predict new set of data in future
 
-• Created REST API and UI page to predict the result for single record from screen
+• Created UI page to predict the result for single record from screen
 
-• Deployed the model in amazon AWS EC2 with Nginx, Guinicorn and Supervisor
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
 
 ## Run Locally
@@ -93,10 +85,10 @@ Start the application
 
 ## Screenshots
 
- * Not Retained
+ ### Not Retained
 ![App Screenshot](https://github.com/Siddhantshelake/Employee-Retention-Prediction/blob/master/screenshots/not%20retained.PNG)
 
-* Retained
+### Retained
 
 ![App Screenshot](https://github.com/Siddhantshelake/Employee-Retention-Prediction/blob/master/screenshots/retain.PNG)
 ## Demo
